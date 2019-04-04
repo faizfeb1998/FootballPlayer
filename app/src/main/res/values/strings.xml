@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FootballPlayer</string>
+    <string name="birth_date">Birth date</string>
+    <string name="no">no</string>
+    <string name="name">name</string>
+    <string name="position">position</string>
+
+</resources>
