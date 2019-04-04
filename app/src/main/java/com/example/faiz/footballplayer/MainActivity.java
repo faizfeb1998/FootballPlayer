@@ -23,7 +23,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String JSON_URL = "https://raw.githubusercontent.com/RaihanBagasNugraha/stuffs/master/football.json";
+    private static final String JSON_URL = "https://raw.githubusercontent.com/faizfeb1998/datapemain/master/datapemain.json";
 
 
     ListView listView;
